@@ -1,2 +1,2 @@
-# serbian-sentence-transformer
+# Serbian-sentence-transformer
  
